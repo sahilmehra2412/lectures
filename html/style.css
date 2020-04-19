@@ -1,0 +1,21 @@
+.box {
+    height: 200px;
+    width: 500px;
+    border: 1px solid black;
+    margin: auto;
+    text-align: center;
+    background-color: antiquewhite;
+    color: blue;
+    overflow: scroll;
+    position: absolute;
+}
+
+.box:hover {
+    background-color: aqua;
+    color: brown;
+}
+
+span {
+    font-size: 35px;
+    font-family: 'Helvetica';
+}
